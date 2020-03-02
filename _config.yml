@@ -30,14 +30,14 @@ defaults:
 
 # SITE CONFIGURATION
 baseurl: ''  #leave this alone
-url: "https://yoursite.github.io"   #change this to yours
-title: My name or organisation # site's title
-description: "A website with a blog" # used by search engines
+url: "https://water-oxide.github.io"   #change this to yours DONE
+title: The Tempest: E-Book # site's title DONE
+description: "Read Shakespeare, The Tempest" # used by search engines DONE
 
 # SITE-SPECIFIC CONFIGURATION
 # Change these 2 images for your own site
 
-avatar: assets/img/face.jpg
+avatar: assets/img/face.jpg assets assets/img/riker.jpg
 favicon: assets/favicon.ico
 
 # Your blog on the home page can be arranged as a grid
@@ -46,21 +46,21 @@ gridlayout: false # change to true if you want grd layout
 
 
 # Header and footer text
-# Change this text to yourown
-header_text: My blog and my web site
+# Change this text to yourown DONE
+header_text: "Shakespeare's greatest play"
 
-# find an image for your own home page and put it into the images folder
-header_feature_image: /uploads/pages.jpg
+# find an image for your own home page and put it into the images folder DONE
+header_feature_image: /play_cover_multi-media_module.jpg /assets/img/mount.jpeg
 
 twitter_username:   #change to your own twitter account
 lang: en_gb
-# change the following to your name or site name
+# change the following to your name or site name DONE
 footer_text:
-    "Copyright 2020 My name"
+    "Copyright 2020 Dan_18040611"
   # Icons
   # If you have any of these accounts add them in here
 rss: false  # Make sure you created a feed.xml with feed.xml layout
-email_address: # Full email address, e.g. "sam@example.com"
+email_address: 18040611@brookes.ac.uk
 facebook:
 flickr:
 google_plus:

@@ -31,7 +31,7 @@ siteImagesDir: "_uploads/"
 # URLs to tags/posts/categories JSON files
 # https://github.com/zhuochun/md-writer/wiki/Settings-for-Front-Matters
 # urlForPosts: ""
-urlForTags: 'https://yoursite.github.io/tags.json'
+urlForTags: 'https://water-oxide.github.io/tags.json'
 # urlForCategories: ""
 
 # The front matter key name
@@ -59,7 +59,7 @@ date: {date}
 published: false
 header_feature_image:
 caption:
-pinned: 
+pinned:
 tags:    # use [tag1,tag2]
 ---
 """
