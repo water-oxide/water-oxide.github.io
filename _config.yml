@@ -31,7 +31,7 @@ defaults:
 # SITE CONFIGURATION
 baseurl: ''  #leave this alone
 url: "https://water-oxide.github.io"   #change this to yours DONE
-title: The Tempest: E-Book # site's title DONE
+title: The Tempest E-Book # site's title DONE
 description: "Read Shakespeare, The Tempest" # used by search engines DONE
 
 # SITE-SPECIFIC CONFIGURATION
